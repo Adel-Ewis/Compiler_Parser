@@ -10,10 +10,7 @@ import compiler.TokenBuffer;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- *
- * @author Administrator
- */
+
 public class parser {
     
   LinkedList<TokenBuffer> tokens;

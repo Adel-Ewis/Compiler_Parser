@@ -7,10 +7,7 @@ package compiler;
 
 import java.util.List;
 
-/**
- *
- * @author Amira Kotb
- */
+
 public class Pars {
 
     public Pars() {

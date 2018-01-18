@@ -17,10 +17,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;import parsertest.parser;
-/**
- *
- * @author Amira Kotb
- */
+
 public class TextEditorFrame extends javax.swing.JFrame {
 
     
