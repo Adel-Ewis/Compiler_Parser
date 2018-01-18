@@ -7,10 +7,7 @@ package compiler;
 
 import javax.swing.JFrame;
 
-/**
- *
- * @author Amira Kotb
- */
+
 public class Compiler {
 
     /**
