@@ -1,0 +1,13 @@
+program
+class  sum{
+<*first fcih_2 program *>
+using("x.txt");
+int x,y;
+int sum( )
+{
+int sum;
+return sum;
+}
+Call(2,3);
+}
+end

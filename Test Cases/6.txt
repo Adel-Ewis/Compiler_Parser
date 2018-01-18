@@ -1,0 +1,6 @@
+program
+class sum{
+int x=5;
+}
+}
+end

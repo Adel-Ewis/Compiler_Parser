@@ -1,0 +1,9 @@
+program 
+class a { 
+int fun( int x ){
+if( b == c ){
+return b;
+}
+}
+}
+end

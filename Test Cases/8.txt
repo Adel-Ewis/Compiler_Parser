@@ -1,0 +1,14 @@
+program
+class in{
+int y=0;
+using("tc.txt")
+call(x,y);
+int mach(){
+if(x == s){}
+while(x<y){
+break;
+read(x);
+}
+}
+}
+end

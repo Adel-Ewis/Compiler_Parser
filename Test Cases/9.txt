@@ -1,0 +1,11 @@
+program
+class in{
+int x(int x)
+{
+int x
+if(x<y or y>s){
+return true;
+}
+}
+}
+end

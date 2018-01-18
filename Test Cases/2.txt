@@ -1,0 +1,11 @@
+program
+class sum{
+int x,y;
+int sum(
+{
+int x
+return sum;
+}
+call(2,3);
+}
+end

@@ -1,0 +1,9 @@
+program
+class in{
+<* hhhhhhhhhhhhhhhhhhhhh *>
+int x(int y){
+read(call);
+write(aa);
+}
+}
+end
